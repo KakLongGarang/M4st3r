@@ -1505,44 +1505,69 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="SPORTS",Hitsvv
 https://kusnadipepenk.github.io/campeign/nika.m3u8
 
+#EXTINF:-1 tvgtvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
 http://51.52.156.22:8888/http/005
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV 3
+
 http://51.52.156.22:8888/http/006
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK",ITV 4
+
 http://51.52.156.22:8888/http/007
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",CITV
+
 http://51.52.156.22:8888/http/001
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rr
+
 http://51.52.156.22:8888/http/004
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",ee
+
 http://51.52.156.22:8888/http/008
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gb
+
 http://51.52.156.22:8888/http/009
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",34
+
 http://51.52.156.22:8888/http/015
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",sd
+
 http://51.52.156.22:8888/http/013
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",rt
+
 http://51.52.156.22:8888/http/012
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",gh
+
 http://51.52.156.22:8888/http/001
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",bn
+
 http://51.52.156.22:8888/http/003
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CITV.uk.png" group-title="UK",qw
+
 http://51.52.156.22:8888/http/011
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
