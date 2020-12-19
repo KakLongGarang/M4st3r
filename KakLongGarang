@@ -3333,6 +3333,380 @@ http://45.11.1.155/tv.php?p=433
 http://tv.wakds.xyz:8080/live/hls/ke97979/182.ts
 
 
+      
+#EXTINF:-1 tvg-ID= "YUPP THIRAI HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png" group-title="VARIETY",YUPP THIRAI
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+       
+#EXTINF:-1 tvg-ID= "ZEE CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"  group-title="VARIETY",ZEE CINEMA
+#KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+      
+#EXTINF:-1 tvg-ID= "COLORS TAMIL HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png" group-title="VARIETY",ZEE TAMIL
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+#EXTINF:-1 tvg-ID= "POLIMER" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png" group-title="VARIETY",POLIMER
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+#EXTINF:-1 tvg-ID= "JAYA MAX" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png" group-title="VARIETY",JAYA MAX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+         
+#EXTINF:-1 tvg-ID= "SONY MAX" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png" group-title="VARIETY",SONY MAX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+       
+#EXTINF:-1 tvg-ID= "UTV MOVIES HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png" group-title="VARIETY",UTV MOVIES
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+#EXTINF:-1 tvg-ID= "COLORS CINEPLEX" tvg-logo="https://sc.dish.com/shared/images/station-logos/CLRSC.PNG" group-title="VARIETY",COLORS CINEPLEX
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+    
+#EXTINF:-1 tvg-ID= "COLORS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="VARIETY",COLORS
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+   
+#EXTINF:-1 tvg-ID= "SONY SAB" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png" group-title="VARIETY",YUPP T
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+   
+ #EXTINF:-1 tvg-ID= "SONY SET" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png" group-title="VARIETY",SONY SET
+ #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+
+#EXTINF:-1 tvg-ID= "&PICS HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="VARIETY",&PICS
+http://a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/1957.ts
+        
+        
+#EXTINF:-1 tvg-ID= "&XPLOR HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="VARIETY",&XPLOR
+ http://iptvtree.net:8080/live/14709/873066f7/197953.ts
+       
+       
+ #EXTINF:-1 tvg-ID= "SONY MAX HD" tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="VARIETY",SONY MAX
+ http://a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/1908.ts
+        
+        
+ #EXTINF:-1 tvg-ID= "BOLLYONE HD", tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png" group-title="VARIETY",BOLLYONE
+ http://skylogic.site:8080/live/test-dd2f8f/5f27/157470.ts
+        
+        
+ #EXTINF:-1 tvg-ID= "B4u Kadak", tvg-logo="https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="VARIETY",B4U KADAK
+ http://a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/55229.ts
+        
+      
+#EXTINF:-1 tvg-ID= "BBC EARTH HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png" group-title="VARIETY",BBC EARTH
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "LOVE NATURE", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png" group-title="VARIETY",LOVE NATURE
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "NATTIONAL GEOGRAPHIC", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png" group-title="VARIETY",NAT GEO
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "NAT GEO WILD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png" group-title="VARIETY",NAT GEO WILD
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "NAT GEO PEOPLE HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png" group-title="VARIETY",NAT GEO PPL
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "BBC LIFESTYLE HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png" group-title="VARIETY",BBC LIFESTYLE
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "TRAVEL CHANNEL HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png" group-title="VARIETY",TRAVEL
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "LUXE.TV HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png" group-title="VARIETY",LUXE
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+ 
+#EXTINF:-1 tvg-ID= "MTV ASIA HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png" group-title="VARIETY",MTV ASIA
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+ #EXTINF:-1 tvg-ID= "HISTORY", tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="VARIETY",HISTORY
+ http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/13275.ts
+        
+        
+  #EXTINF:-1 tvg-ID= "DISCOVERY ASIA", tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg", group-title="VARIETY", DISCOVERY ASIA
+  http://e8.oknirvana.club:8880/live/zN6eVnSdKh/ubzC4dh2EG/60376.ts
+        
+        
+ #EXTINF:-1 tvg-ID= "DISCOVERY CHANNEL", tvg-logo="https://i.imgur.com/ESeGnT2.jpg", group-title="VARIETY", DISCOVERY
+  #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+        
+        
+#EXTINF:-1 tvg-ID= "ANIMAL PLANET", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="VARIETY",ANIMAL PLANET
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+        
+        
+ #EXTINF:-1 tvg-ID= "SMITHSONIAN CHANNEL", tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="VARIETY", SMITHSONIAN
+http://iptvtree.net:8080/qVXeKPjVIu/9DvGhbBgfI/8585"
+        
+        
+ #EXTINF:-1 tvg-ID= "DOCUBOX HD", tvg-logo="https://i.imgur.com/rnQMXRm.jpg", group-title="VARIETY", DOCUBOX
+ http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/59863.ts
+        
+        
+ #EXTINF:-1 tvg-ID= "OUTDOOR", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES", group-title="VARIETY", OUTDOOR
+ http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/15075.ts
+         
+        
+#EXTINF:-1 tvg-ID= "DREAMWORK HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png" group-title="VARIETY", DREAMWORKS
+  #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+        
+  #EXTINF:-1 tvg-ID= "NICK JR.", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png" group-title="VARIETY",NICK JR
+  #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+   http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+        
+#EXTINF:-1 tvg-ID= "CBEEBIES HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png" group-title="VARIETY", CBEEBIES
+ #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+                   
+ #EXTINF:-1 tvg-ID= "NICKELODEON", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png" group-title="VARIETY", NICKELODEON
+  #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+        
+ #EXTINF:-1 tvg-ID= "BOOMERANG HD", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png" group-title="VARIETY",BOOMERANG
+ #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+        
+ #EXTINF:-1 tvg-ID= "BABYTV", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png" group-title="VARIETY",BABY TV
+ #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+          
+          
+#EXTINF:-1 tvg-ID= "Disney Channel", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="VARIETY", DISNEY
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+          
+          
+ #EXTINF:-1 tvg-ID= "Cartoon Network", tvg-logo="https://i.pinimg.com/originals/67/a2/55/67a25589e8f440d27a5a73982512279a.png" group-title="VARIETY", CARTOON NETWORK
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+           
+           
+ #EXTINF:-1 tvg-ID= "Disney Junior", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="VARIETY", DISNEY JR
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+           
+           
+ #EXTINF:-1 tvg-ID= "Disney XD", tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png" group-title="VARIETY",DISNEY XD
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+           
+           
+ #EXTINF:-1 tvg-ID= "ANIMAX", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="VARIETY",ANIMAX
+ #KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+            
+            
+#EXTINF:-1 tvg-ID= "ANIPLUS", tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="VARIETY",ANIPLUS
+http://skylogic.site:8080/live/test-dd2f8f/5f27/157566.ts
+             
+             
+#EXTINF:-1 tvg-ID= "Kids TV", tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png" group-title="VARIETY",KIDS TV
+#KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+  
+        
+#EXTINF:-1 tvg-ID= "RTM SPORTS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="VARIETY",RTM SPORTS
+ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+       
+       
+ #EXTINF:-1 tvg-ID= "UNIFI SPORTS1", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="VARIETY",UNIFI SPORTS 1
+ #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "UNIFI SPORTS2", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="VARIETY",UNIFI SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "UNIFI SPORTS3", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="VARIETY",UNIFI SPORTS 3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "UNIFI SPORTS4" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png" group-title="VARIETY",UNIFI SPORTS 4
+  #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "UNIFI SPORTS5", tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png" group-title="VARIETY",UNIFI SPORTS 5
+  #KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+  http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "FOX SPORTS HD", tvg-logo="https://www.seekpng.com/png/full/52-523121_fox-sports-1-hd-logo-fox-sports-1.png" group-title="VARIETY",FOX SPORTS 1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+      
+      
+#EXTINF:-1 tvg-ID= "FOX SPORTS 2 HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-7.png" group-title="VARIETY",FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+       
+       
+#EXTINF:-1 tvg-ID= "FOX SPORTS 3 HD" tvg-logo="https://www.cns.net.tw/web/upload/20141017170752LahemD8.png" group-title="VARIETY",FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+ http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+        
+        
+  #EXTINF:-1 tvg-ID= "ASTRO SUPERSPORTS 1" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg" group-title="VARIETY",ASSP 1
+  http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/59220.ts
+          
+          
+  #EXTINF:-1 tvg-ID= "ASTRO SUPERSPORTS 2" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg" group-title="VARIETY",ASSP 2
+  http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/59219.ts
+          
+          
+ #EXTINF:-1 tvg-ID= "ASTRO SUPERSPORTS 3" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg" group-title="VARIETY",ASSP 3
+ http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/59218.ts
+          
+          
+ #EXTINF:-1 tvg-ID= "ASTRO SUPERSPORTS 4" tvg-logo="https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg" group-title="VARIETY",ASSP 4
+ http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/59217.ts
+         
+         
+#EXTINF:-1 tvg-ID= "BEIN SPORTS 1" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png" group-title="VARIETY",BEIN SPORT 1
+#KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+        
+        
+#EXTINF:-1 tvg-ID= "BEIN SPORTS 2" tvg-logo="https://s4.postimg.cc/m171drj19/bein-sports-400.png" group-title="VARIETY",BEIN SPORT 2
+#KODIPROP:inputstream.adaptive.license_key=https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+         
+         
+#EXTINF:-1 tvg-ID= "ESPN" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="VARIETY",ESPN
+http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/3136.ts
+         
+         
+#EXTINF:-1 tvg-ID= "SONY TEN 1" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="VARIETY",SONY TEN 1
+http://iptvtree.net:8080/live/14709/873066f7/74893.ts 
+         
+         
+#EXTINF:-1 tvg-ID= "SONY TEN 2" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="VARIETY",SONY TEN 2
+http://iptvtree.net:8080/live/14709/873066f7/56190.ts
+         
+         
+#EXTINF:-1 tvg-ID= "ASTRO ARENA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="VARIETY",ASTRO ARENA
+http://iptvtree.net:8080/live/14709/873066f7/157485.ts
+         
+         
+#EXTINF:-1 tvg-ID= "STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="VARIETY",STAR SPORT SELECT 1
+http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/82628.ts
+         
+         
+#EXTINF:-1 tvg-ID= "STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="VARIETY",STAR SPORT SELECT 2
+http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/201082.ts
+         
+         
+#EXTINF:-1 tvg-ID= "Premier Sports HD" tvg-logo="https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png" group-title="VARIETY",PREMIER SPORT 
+http://e8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/28934.ts
+         
+         
+#EXTINF:-1 tvg-ID= "BT SPORTS 1" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/1.png" group-title="VARIETY",BT SPORT 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+         
+         
+#EXTINF:-1 tvg-ID= "BT SPORTS 2" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png" group-title="VARIETY",BT SPORT 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+         
+         
+#EXTINF:-1 tvg-ID= "FISHING NETWORK" tvg-logo="https://i.imgur.com/Dk3oPCs.png" group-title="VARIETY",FISHING NETWORK
+http://a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/30040.ts
+         
+         
+#EXTINF:-1 tvg-ID= "EUROSPORTS" tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="VARIETY", EUROSPORT
+http://iptvtree.net:8080/live/14709/873066f7/158353.ts
+         
+         
+#EXTINF:-1 tvg-ID= "EUROSPORTS 1" tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="VARIETY", EUROSPORT 1
+http://iptvtree.net:8080/live/14709/873066f7/692.ts
+         
+         
+#EXTINF:-1 tvg-ID= "EUROSPORTS 2" tvg-logo="https://i.imgur.com/syYVNay.png group-title="VARIETY",EUROSPORTS 2
+http://iptvtree.net:8080/live/14709/873066f7/1555.ts
+            
+          
+        
+      
+
+
 
 
 
