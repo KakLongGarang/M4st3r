@@ -2575,3 +2575,182 @@ https://vcdnjt.useetv.com/dass/14/rodjatv/chunklist_w449620283_b684100_sleng.m3u
 https://vcdnjt.useetv.com/dass/14/tawaftv/chunklist_w386254605_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="RELIGI (USEETV)",TV9 NU
 https://vcdnjt.useetv.com/dass/14/tv9/chunklist_w1540246434_b684100_sleng.m3u8 
+
+#EXTINF:-1,group-title="FHD",&PRIVE HD
+http://103.103.43.171:9000/play/a0gf/index.m3u8
+
+#EXTINF:-1,group-title="FHD",&flix HD
+http://103.103.43.171:9000/play/a0g7/index.m3u8
+
+#EXTINF:-1,group-title="FHD",&pictures 
+http://103.103.43.171:9000/play/a0he/index.m3u8
+
+#EXTINF:-1,group-title="FHD",MN+ HD
+http://103.103.43.171:9000/play/a0gl/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Movies Active HD
+http://103.103.43.171:9000/play/a0gi/index.m3u8
+
+#EXTINF:-1,group-title="FHD",SONY PIX HD 
+http://103.103.43.171:9000/play/a0ga/index.m3u8
+
+#EXTINF:-1,group-title="FHD",UTV HD
+http://103.103.43.171:9000/play/a0d4/index.m3u8
+
+#EXTINF:-1,group-title="FHD",ZEE Cafe H
+http://103.103.43.171:9000/play/a0gk/index.m3u8
+
+#EXTINF:-1,group-title="FHD",STAR MOVIES
+http://103.103.43.171:9000/play/a0ht/index.m3u8
+
+#EXTINF:-1,group-title="FHD",STAR WORLD 
+http://103.103.43.171:9000/play/a0i1/index.m3u8
+
+#EXTINF:-1,group-title="FHD",STAR WORLD P
+http://103.103.43.171:9000/play/a0i0/index.m3u8
+
+#EXTINF:-1,group-title="FHD",&tv HD 
+http://103.103.43.171:9000/play/a0fz/index.m3u8
+
+#EXTINF:-1,group-title="FHD",ANIMAL PLAN
+http://103.103.43.171:9000/play/a0hy/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Discovery H
+http://103.103.43.171:9000/play/a0hw/index.m3u8
+
+#EXTINF:-1,group-title="FHD",FOX Life HD
+http://103.103.43.171:9000/play/a0g9/index.m3u8
+
+#EXTINF:-1,group-title="FHD",HISTORY TV18
+http://103.103.43.171:9000/play/a0hx/index.m3u8
+
+#EXTINF:-1,group-title="FHD",NAT Geo Wild HD
+http://103.103.43.171:9000/play/a0gr/index.m3u8
+
+#EXTINF:-1,group-title="FHD",National G
+http://103.103.43.171:9000/play/a0hv/index.m3u8
+
+#EXTINF:-1,group-title="FHD",TLC HD
+http://103.103.43.171:9000/play/a0gj/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Sony BBC EarHD
+http://103.103.43.171:9000/play/a0hp/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Colors Bangla HD
+http://103.103.43.171:9000/play/a0d0/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Colors HD
+http://103.103.43.171:9000/play/a0cw/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Colors HD
+http://103.103.43.171:9000/play/a0g6/index.m3u8
+
+
+#EXTINF:-1,group-title="FHD",Enterr10 Bangla 
+http://103.103.43.171:9000/play/a0ez/index.m3u8
+
+
+#EXTINF:-1,group-title="FHD",& TV HD
+http://103.103.43.171:9000/play/a0ds/index.m3u8
+
+#EXTINF:-1,group-title="FHD",SAB HD 
+http://103.103.43.171:9000/play/a0fk/index.m3u8
+#EXTINF:-1,group-title="FHD",SET HD 
+http://103.103.43.171:9000/play/a0g8/index.m3u8
+#EXTINF:-1,group-title="FHD",SET HD
+http://103.103.43.171:9000/play/a0e4/index.m3u8
+#EXTINF:-1,group-title="FHD",MAX HD -Rs 17
+http://103.103.43.171:9000/play/a0gq/index.m3u8
+
+#EXTINF:-1,group-title="FHD",SIX HD 
+http://103.103.43.171:9000/play/a0gp/index.m3u8
+#EXTINF:-1,group-title="FHD",SONY SIX HD
+http://103.103.43.171:9000/play/a0ea/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 1 HD
+http://103.103.43.171:9000/play/a0e0/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 1 HD
+http://103.103.43.171:9000/play/a0go/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 2 HD
+http://103.103.43.171:9000/play/a0di/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 2 HD
+http://103.103.43.171:9000/play/a0gc/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 3 HD 
+http://103.103.43.171:9000/play/a0dj/index.m3u8
+#EXTINF:-1,group-title="FHD",Sony Ten 3 HD
+http://103.103.43.171:9000/play/a0gt/index.m3u8
+#EXTINF:-1,group-title="FHD",Star GOLD 
+http://103.103.43.171:9000/play/a0hd/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Gold SelHD
+http://103.103.43.171:9000/play/a0ho/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Maa HD 
+http://103.103.43.171:9000/play/a0fl/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Maa MovHD
+http://103.103.43.171:9000/play/a0fh/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Star Movi Selec
+http://103.103.43.171:9000/play/a0hu/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Plus 
+http://103.103.43.171:9000/play/a0i5/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Plus HD
+http://103.103.43.171:9000/play/a0e1/index.m3u8
+
+#EXTINF:-1,group-title="FHD",Star Sport 1
+http://103.103.43.171:9000/play/a0h5/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sport 2
+http://103.103.43.171:9000/play/a0h6/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sport Hindi
+http://103.103.43.171:9000/play/a0h7/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sport Select HD 1
+http://103.103.43.171:9000/play/a0i2/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sport Select HD 2
+http://103.103.43.171:9000/play/a0i3/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sports 1 HD
+http://103.103.43.171:9000/play/a0dn/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sports 2 HD
+http://103.103.43.171:9000/play/a0dm/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sports Select 1 HD
+http://103.103.43.171:9000/play/a0e7/index.m3u8
+#EXTINF:-1,group-title="FHD",Star Sports Select 2 HD 
+http://103.103.43.171:9000/play/a0dv/index.m3u8
+
+
+#EXTINF:-1,group-title="FHD",JALSHA MOVIES HD
+http://103.103.43.171:9000/play/a0ct/index.m3u8
+
+#EXTINF:-1,group-title="FHD",STAR JALS
+http://103.103.43.171:9000/play/a0hg/index.m3u8
+#EXTINF:-1,group-title="FHD",STAR JALSHA HD
+http://103.103.43.171:9000/play/a0cs/index.m3u8
+#EXTINF:-1,group-title="FHD",Jalsha Mov
+http://103.103.43.171:9000/play/a0hi/index.m3u8
+
+
+#EXTINF:-1,group-title="FHD",ZEE BANGLA
+http://103.103.43.171:9000/play/a0hq/index.m3u8
+#EXTINF:-1,group-title="FHD",ZEE CINEMA
+http://103.103.43.171:9000/play/a0hb/index.m3u8
+
+
+#EXTINF:-1,group-title="FHD",ZEE TV HD
+http://103.103.43.171:9000/play/a0g5/index.m3u8
+#EXTINF:-1,group-title="FHD",Zee Bangla HD
+http://103.103.43.171:9000/play/a0db/index.m3u8
+
+#EXTINF:-1,group-title="FHD",colors Ban
+http://103.103.43.171:9000/play/a0hj/index.m3u8
+#EXTINF:-1,group-title="FHD",colors INFIN
+http://103.103.43.171:9000/play/a0hz/index.m3u8
+
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" group-title="FHD" tvg-logo="https://assets.wxca.cf/images/s/fBNPHHCQJS.png",Sony BBC Earth HD 
+http://103.81.241.108:8000/play/a066
+
+#EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" group-title="FHD" tvg-logo="https://assets.wxca.cf/images/s/jbmAtnLqgg.png",Sony Ten 2 HD
+http://103.81.241.108:8000/play/a069
+
+#EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD" group-title="FHD" tvg-logo="https://assets.wxca.cf/images/s/BQVTNwLVPz.png",Sony Ten 3 HD
+http://103.81.241.108:8000/play/a06a
+
+#EXTINF:-1 tvg-id="1113" group-title="FHD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png", STAR GOLD SELECT HD
+http://103.81.241.108:8000/play/a067
+
+
