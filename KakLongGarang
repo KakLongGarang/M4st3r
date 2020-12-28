@@ -699,6 +699,30 @@ https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="Malaysia",ARENA
 http://vp2p2s.my6868.cc/20422/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png" group-title="Malaysia",ASTRO CITRA
+http://vp2p2s.my6868.cc/20425/IPTVFREENET.m3u8
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/warna.png" group-title="Malaysia",ASTRO WARNA
+http://vp2p2s.my6868.cc/20424/IPTVFREENET.m3u8
+
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", ASTRO RIA
+http://vp2p2s.my6868.cc/20421/IPTVFREENET.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malaysia", ASTRO BOO
+http://vp2p2s.my6868.cc/20420/IPTVFREENET.m3u8
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="Malaysia",ASTRO PRIMA
+http://vp2p2s.my6868.cc/20477/IPTVFREENET.m3u8
+
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/oasis.png" group-title="Malaysia",ASTRO OASIS
+http://vp2p2s.my6868.cc/20471/IPTVFREENET.m3u8
+
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="Malaysia",ASTRO CERIA
+http://vp2p2s.my6868.cc/20494/IPTVFREENET.m3u8
+
+
+
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia",SUPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
