@@ -696,7 +696,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-name="305" tvg-id="BXT.US" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport%20xtra.png" group-title="SPORT",BEIN XTRA
 https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="S",ASTRO ARENA
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORT",ASTRO ARENA
 http://vp2p2s.my6868.cc/20422/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
 
@@ -2742,7 +2742,7 @@ http://vp2p2s.my6868.cc/20472/dash.m3u8
 #EXTINF:-1 xmltv-id="astro cricket" tvg-id="astro criket" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest/scale-to-width-down/340?cb=20200527073450", ASTRO CRICKET
 http://vp2p2s.my6868.cc/20470/dash.m3u8
 
-#EXTINF:-1 xmltv-id="Astro Arena HD" tvg-id="Astro Arena HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest/scale-to-width-down/340?cb=20180622080600", ASTRO ARENA HD
+#EXTINF:-1 xmltv-id="Astro Arena HD" tvg-id="Astro Arena HD" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest/scale-to-width-down/340?cb=20180622080600", ASTRO ARENA HD
 http://vp2p2s.my6868.cc/20470/dash.m3u8
 
 #EXTINF:-1 xmltv-id="astro vashantham" tvg-id="astro vashantam" group-title="MY" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", ASTRO VASHANTHAM
