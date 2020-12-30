@@ -3360,4 +3360,21 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/17
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC动作电影.png" tvg-name="CHC动作电影" group-title="MOVIE",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MY", ASTRO RIA
+http://vp2p2s.my6868.cc/20421/KakLong.m3u8
+
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY", ASTRO PRIMA
+http://vp2p2s.my6868.cc/20477/KakLong.m3u8
+
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY", ASTRO CITRA
+http://vp2p2s.my6868.cc/20425/KakLong.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="MY", ASTRO BOO
+http://vp2p2s.my6868.cc/20420/KakLong.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/oasis.png" group-title="MY",ASTRO OASIS
+http://vp2p2s.my6868.cc/20471/KakLong.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="MY",ASTRO CERIA
+http://vp2p2s.my6868.cc/20494/KakLong.m3u8
 
