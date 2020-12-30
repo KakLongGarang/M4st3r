@@ -3357,6 +3357,7 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/18
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="Tangyuan",Zhongtian News
 http://tv.wakds.xyz:8080/tangyuan/12345678/17
 
-
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC动作电影.png" tvg-name="CHC动作电影" group-title="MOVIE",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 
