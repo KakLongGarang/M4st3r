@@ -2156,13 +2156,13 @@ http://vp2p2s.my6868.cc/20425/dash.m3u8
 http://tv.wakds.xyz:8080/tangyuan/12345678/168
 
 #EXTINF:-1 xmltv-id="Astro SuperSport HD" tvg-id="Astro SuperSport HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357", Astro SuperSport HD
-http://vp2p2s.my6868.cc/20413/dash.m3u8
+http://vp2p2s.my6868.cc/20414/dash.m3u8
 
 #EXTINF:-1 xmltv-id="Astro SuperSport 2 HD" tvg-id="Astro SuperSport 2 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/812_HD.png/revision/latest/top-crop/width/220/height/220?cb=20200520222635", Astro SuperSport 2 HD
 http://vp2p2s.my6868.cc/20415/dash.m3u8
 
 #EXTINF:-1 xmltv-id="Astro SuperSport 3 HD" tvg-id="Astro SuperSport 3 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", Astro SuperSport 3 HD
-http://vp2p2s.my6868.cc/20415/dash.m3u8
+http://vp2p2s.my6868.cc/20416/dash.m3u8
 
 #EXTINF:-1 xmltv-id="Astro SuperSport 4 HD" tvg-id="Astro SuperSport 4 HD" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748", Astro SuperSport 4 HD
 http://vp2p2s.my6868.cc/20417/dash.m3u8
@@ -2736,3 +2736,23 @@ http://vp2p2s.my6868.cc/20494/KakLong.m3u8
 
 #EXTINF:-1 xmltv-id="astro vashantham" tvg-id="astro vashantam" group-title="SG" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%271844782%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=720&Height=405&ImageUrl=%271844782.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", VASANTHAM
 http://vp2p2s.my6868.cc/20490/KakLong.m3u8
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORT",ASTRO ARENA
+http://vp2p2s.my6868.cc/20422/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="Astro SuperSport HD" tvg-id="Astro SuperSport HD" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Astro_Supersport_new.png/revision/latest/scale-to-width-down/340?cb=20180622074357", Astro SuperSport HD
+http://vp2p2s.my6868.cc/20414/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="Astro SuperSport 2 HD" tvg-id="Astro SuperSport 2 HD" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/812_HD.png/revision/latest/top-crop/width/220/height/220?cb=20200520222635", Astro SuperSport 2 HD
+http://vp2p2s.my6868.cc/20415/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="Astro SuperSport 3 HD" tvg-id="Astro SuperSport 3 HD" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest/scale-to-width-down/340?cb=20180622075715", Astro SuperSport 3 HD
+http://vp2p2s.my6868.cc/20416/KakLong.m3u8
+
+#EXTINF:-1 xmltv-id="Astro SuperSport 4 HD" tvg-id="Astro SuperSport 4 HD" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748", Astro SuperSport 4 HD
+http://vp2p2s.my6868.cc/20417/KakLong.m3u8
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="MOVIE",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+
