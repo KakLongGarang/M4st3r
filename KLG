@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,   group-title="KID", ASTRO CHINESE KIDS
+#EXTINF:-1, group-title="KIDS", ASTRO CHINESE KIDS
 http://vp2p2s.my6868.cc/20401/KakLong.m3u8
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 http://vp2p2s.my6868.cc/20402/KakLong.m3u8
