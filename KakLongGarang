@@ -2755,86 +2755,6 @@ http://vp2p2s.my6868.cc/20417/KakLong.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="MOVIE",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
-#EXTM3U
-#EXTINF:-1,   group-title="MY", 01 CHINESE KIDS
-http://vp2p2s.my6868.cc/20401/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 02 TV1
-http://vp2p2s.my6868.cc/20402/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 03 TV2
-http://vp2p2s.my6868.cc/20403/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 04 TV3
-http://vp2p2s.my6868.cc/20404/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 05 NTV7
-http://vp2p2s.my6868.cc/20405/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 06 8TV
-http://vp2p2s.my6868.cc/20406/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 07 TV9
-http://vp2p2s.my6868.cc/20407/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 08 CHINESE
-http://vp2p2s.my6868.cc/20408/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 09 CHINESE
-http://vp2p2s.my6868.cc/20409/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 11 CHINESE
-http://vp2p2s.my6868.cc/20411/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 12 GO SHOP
-http://vp2p2s.my6868.cc/20412/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 13 GO SHOP
-http://vp2p2s.my6868.cc/20413/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 14 ASSP 1
-http://vp2p2s.my6868.cc/20414/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 15 ASSP 2
-http://vp2p2s.my6868.cc/20415/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 16 ASSP 3
-http://vp2p2s.my6868.cc/20416/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 17 ASSP 4
-http://vp2p2s.my6868.cc/20417/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 18 AEC
-http://vp2p2s.my6868.cc/20418/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 19 AOD
-http://vp2p2s.my6868.cc/20419/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 20 BOO
-http://vp2p2s.my6868.cc/20420/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 21 RIA
-http://vp2p2s.my6868.cc/20421/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 22 ARENA
-http://vp2p2s.my6868.cc/20422/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 23 DRAMA SANGAT
-http://vp2p2s.my6868.cc/20423/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 24 WARNA DEGIL
-http://vp2p2s.my6868.cc/20424/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 25 CITRA
-http://vp2p2s.my6868.cc/20425/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 26 GO SHOP
-http://vp2p2s.my6868.cc/20426/KakLong.m3u8
-#EXTINF:-1,   group-title="SG", 90 VASANTHAM
-http://vp2p2s.my6868.cc/20490/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 91 AL HIJRAH
-http://vp2p2s.my6868.cc/20491/KakLong.m3u8
-#EXTINF:-1,   group-title="SG", 92 SURIA
-http://vp2p2s.my6868.cc/20492/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 94 CERIA
-http://vp2p2s.my6868.cc/20494/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 70 CRICKET
-http://vp2p2s.my6868.cc/20470/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 71 OASIS
-http://vp2p2s.my6868.cc/20471/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 72 NICKELODEON
-http://vp2p2s.my6868.cc/20472/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 74 NAURA
-http://vp2p2s.my6868.cc/20474/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 75 ONE
-http://vp2p2s.my6868.cc/20475/KakLong.m3u8
-#EXTINF:-1,   group-title="SPORT", 76 RTM SPORT
-http://vp2p2s.my6868.cc/20476/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 77 PRIMA
-http://vp2p2s.my6868.cc/20477/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 69 IQIY
-http://vp2p2s.my6868.cc/20469/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 68 HELLO
-http://vp2p2s.my6868.cc/20468/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 67 AWANI
-http://vp2p2s.my6868.cc/20467/KakLong.m3u8
-
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KIDS",Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/108.png?rand=246" group-title="KIDS",CBeebies
@@ -2851,6 +2771,87 @@ http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KIDS",Da Vinci Kids Learning | HPlus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,   group-title="MY", 01 CHINESE KIDS
+http://vp2p2s.my6868.cc/20401/KakLong.m3u8
+#EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+http://vp2p2s.my6868.cc/20402/KakLong.m3u8
+#EXTINF:-1 xmltv-id="TV2" tvg-id="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+http://vp2p2s.my6868.cc/20403/KakLong.m3u8
+#EXTINF:-1 xmltv-id="TV3" tvg-id="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
+http://vp2p2s.my6868.cc/20404/KakLong.m3u8
+#EXTINF:-1 xmltv-id="ntv7" tvg-id="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MY", NTV7
+http://vp2p2s.my6868.cc/20405/KakLong.m3u8
+#EXTINF:-1 xmltv-id="8tv" tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="MY", 8TV
+http://vp2p2s.my6868.cc/20406/KakLong.m3u8
+#EXTINF:-1 xmltv-id="tv9" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="MY", TV9
+http://vp2p2s.my6868.cc/20407/KakLong.m3u8
+#EXTINF:-1,   group-title="MY", 08 CHINESE
+http://vp2p2s.my6868.cc/20408/KakLong.m3u8
+#EXTINF:-1,   group-title="MY", 09 CHINESE
+http://vp2p2s.my6868.cc/20409/KakLong.m3u8
+#EXTINF:-1,   group-title="MY", 11 CHINESE
+http://vp2p2s.my6868.cc/20411/KakLong.m3u8
+#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP
+http://vp2p2s.my6868.cc/20412/KakLong.m3u8
+#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP
+http://vp2p2s.my6868.cc/20413/KakLong.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORT", ASTRO SUPERSPORT 1
+http://vp2p2s.my6868.cc/20414/KakLong.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORT", ASTRO SUPERSPORT 2
+http://vp2p2s.my6868.cc/20415/KakLong.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORT",ASTRO SUPERSPORT 3
+http://vp2p2s.my6868.cc/20416/KakLong.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORT",ASTRO SUPERSPORT 4
+http://vp2p2s.my6868.cc/20417/KakLong.m3u8
+#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="MY" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
+http://vp2p2s.my6868.cc/20418/KakLong.m3u8
+#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
+http://vp2p2s.my6868.cc/20419/KakLong.m3u8
+#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
+http://vp2p2s.my6868.cc/20420/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="MY", ASTRO RIA
+http://vp2p2s.my6868.cc/20421/KakLong.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORT", ASTRO ARENA
+http://vp2p2s.my6868.cc/20422/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY", DRAMA SANGAT
+http://vp2p2s.my6868.cc/20423/KakLong.m3u8
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MY", ASTRO WARNA
+http://vp2p2s.my6868.cc/20424/KakLong.m3u8
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY", ASTRO CITRA
+http://vp2p2s.my6868.cc/20425/KakLong.m3u8
+#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png", ASTRO GO SHOP
+http://vp2p2s.my6868.cc/20426/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="SG", VASANTHAM
+http://vp2p2s.my6868.cc/20490/KakLong.m3u8
+#EXTINF:-1, tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="MY", AL HIJRAH
+http://vp2p2s.my6868.cc/20491/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="SG", SURIA
+http://vp2p2s.my6868.cc/20492/KakLong.m3u8
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="KIDS", ASTRO CERIA
+http://vp2p2s.my6868.cc/20494/KakLong.m3u8
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/astro%20cricket.png" group-title="SPORT", ASTRO CRICKET
+http://vp2p2s.my6868.cc/20470/KakLong.m3u8
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY", ASTRO OASIS
+http://vp2p2s.my6868.cc/20471/KakLong.m3u8
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="KIDS", NICKELODEON
+http://vp2p2s.my6868.cc/20472/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MY", ASTRO NAURA
+http://vp2p2s.my6868.cc/20474/KakLong.m3u8
+#EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE
+http://vp2p2s.my6868.cc/20475/KakLong.m3u8
+#EXTINF:-1 xmltv-id="rtms" tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="SPORT", RTM SPORT
+http://vp2p2s.my6868.cc/20476/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="MY", ASTRO PRIMA
+http://vp2p2s.my6868.cc/20477/KakLong.m3u8
+#EXTINF:-1,  tvg-logo="https://dwglogo.com/wp-content/uploads/2019/02/1600px_IQiyi_logo.png",  group-title="MY", IQIYI
+http://vp2p2s.my6868.cc/20469/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY", HELLO
+http://vp2p2s.my6868.cc/20468/KakLong.m3u8
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MY", ASTRO AWANI
+http://vp2p2s.my6868.cc/20467/KakLong.m3u8
 
 
 
