@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,   group-title="MY", 01 CHINESE KIDS
+#EXTINF:-1,   group-title="MY", ASTRO CHINESE KIDS
 http://vp2p2s.my6868.cc/20401/KakLong.m3u8
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 http://vp2p2s.my6868.cc/20402/KakLong.m3u8
@@ -13,11 +13,11 @@ http://vp2p2s.my6868.cc/20405/KakLong.m3u8
 http://vp2p2s.my6868.cc/20406/KakLong.m3u8
 #EXTINF:-1 xmltv-id="tv9" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="MY", TV9
 http://vp2p2s.my6868.cc/20407/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 08 CHINESE
+#EXTINF:-1,   group-title="MY", ASTRO CHINESE
 http://vp2p2s.my6868.cc/20408/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 09 CHINESE
+#EXTINF:-1,   group-title="MY", ASTRO CHINESE
 http://vp2p2s.my6868.cc/20409/KakLong.m3u8
-#EXTINF:-1,   group-title="MY", 11 CHINESE
+#EXTINF:-1,   group-title="MY", ASTRO CHINESE
 http://vp2p2s.my6868.cc/20411/KakLong.m3u8
 #EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
 http://vp2p2s.my6868.cc/20412/KakLong.m3u8
