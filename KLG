@@ -97,3 +97,28 @@ http://vp2p2s.my6868.cc/50006/KakLong.m3u8
 http://vp2p2s.my6868.cc/50041/KakLong.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="DISC", DISCOVERY
 http://vp2p2s.my6868.cc/50043/KakLong.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIE", FOX
+https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_crime.png" group-title="MOVIE", FOX Crime
+https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_life.png" group-title="MOVIE", FOX Life
+https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png" group-title="MOVIE", FOX Movies Premium
+https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png" group-title="MOVIE", FOX Action Movies
+https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIE", FOX Family Movie
+https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIE", HBO
+https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_family.png" group-title="MOVIE", HBO Family
+https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_hits.png" group-title="MOVIE", HBO Hits
+https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_signature.png" group-title="MOVIE", HBO Signature
+https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/red_hbo.png" group-title="MOVIE", RED by HBO
+https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807 
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="MOVIE", Cinemax by HBO
+https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
