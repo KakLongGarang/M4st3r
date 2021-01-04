@@ -2857,6 +2857,18 @@ http://vp2p2s.my6868.cc/20394/KakLong.m3u8
 http://vp2p2s.my6868.cc/20399/KakLong.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg" group-title="MOVIE",CCM
 http://vp2p2s.my6868.cc/20396/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIE", FOX Family Movie
+http://vp2p2s.my6868.cc/50003/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIE", FOX Family Movie
+http://vp2p2s.my6868.cc/50004/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIE", FOX
+http://vp2p2s.my6868.cc/50005/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIE", HBO
+http://vp2p2s.my6868.cc/50006/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="DISC", HISTORY
+http://vp2p2s.my6868.cc/50041/KakLong.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="DISC", DISCOVERY
+http://vp2p2s.my6868.cc/50043/KakLong.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="MOVIE", BAMBU
 https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
