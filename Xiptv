@@ -369,3 +369,29 @@ http://tv.wakds.xyz:8080/hls/ke97979/19
 http://tv.wakds.xyz:8080/hls/ke97979/18
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="wakds",Zhongtian News
 http://tv.wakds.xyz:8080/hls/ke97979/17
+#EXTINF:-1 xmltv-id="astro drama sangat" tvg-id="astro drama sangat" group-title="wakds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737", ASTRO DRAMA SANGAT 2
+http://tv.wakds.xyz:8080/hls/ke97979/169
+#EXTINF:-1 xmltv-id="hello" tvg-id="HELLO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="wakds",Hello
+http://tv.wakds.xyz:8080/hls/ke97979/171
+#EXTINF:-1 xmltv-id="ASTRO GAAYA" tvg-id="ASTRO GAAYA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="wakds",ASTRO GAAYA
+http://tv.wakds.xyz:8080/hls/ke97979/172
+#EXTINF:-1 xmltv-id="ASTRO GO SHOP" tvg-id="ASTRO GO SHOP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="wakds",ASTRO GO SHOP
+http://tv.wakds.xyz:8080/hls/ke97979/173
+#EXTINF:-1 xmltv-id="naura" tvg-id="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="wakds",Naura
+http://tv.wakds.xyz:8080/hls/ke97979/170
+#EXTINF:-1 xmltv-id="Astro Citra" tvg-id="Astro Citra" group-title="wakds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250", ASTRO CITRA 2
+http://tv.wakds.xyz:8080/hls/ke97979/168
+#EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE HD 2
+http://tv.wakds.xyz:8080/hls/ke97979/174
+#EXTINF:-1 xmltv-id="KBS WORLD" tvg-id="KBS WORLD" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", KBS WORLD
+http://tv.wakds.xyz:8080/hls/ke97979/175
+#EXTINF:-1 xmltv-id="TVN" tvg-id="TVN" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", TVN 2
+http://tv.wakds.xyz:8080/hls/ke97979/176
+#EXTINF:-1 xmltv-id="OHK" tvg-id="OHK" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",OHK 2
+http://tv.wakds.xyz:8080/hls/ke97979/177
+#EXTINF:-1 xmltv-id="CCM" tvg-id="CCM" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",CCM 2
+http://tv.wakds.xyz:8080/hls/ke97979/179
+#EXTINF:-1 xmltv-id="ASTRO WARNA HD" tvg-id="ASTRO WARNA HD" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ASTRO WARNA HD 2
+http://tv.wakds.xyz:8080/hls/ke97979/180
+#EXTINF:-1 xmltv-id="Astro Ria" tvg-id="Astro Ria" group-title="wakds" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Astro Ria
+http://tv.wakds.xyz:8080/hls/ke97979/181
