@@ -17,8 +17,6 @@ http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-country="MY" tvg-url="" group-title="Malaysia",Drama Sangat
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mnrEYuJnv8yrV63BN9SgY8)/dm/3/x6zvnex/s/live-4.m3u8
 
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
