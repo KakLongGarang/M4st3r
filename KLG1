@@ -13,27 +13,27 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia",TV3
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV 7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia",DRAMA SANGAT
-https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -194,16 +194,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="Malaysia",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428236_ico.png" group-title="Malaysia",INDOSIAR
-https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428072_ico.png" group-title="Malaysia",GTV
-https://fvtv.mywire.org/playlist/id/014.m3u8|Referer=https://www.vidio.com 
+ 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -647,19 +638,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="Malaysia",BEIN SPORTS 2
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="305" tvg-id="BXT.US" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport%20xtra.png" group-title="Malaysia",BEIN XTRA
-https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
-
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia",Astro Supersport
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia",Astro Supersport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
