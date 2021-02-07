@@ -36,12 +36,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia",DRAMA SANGAT
-https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -602,7 +602,7 @@ https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rtm%20sports.png" group-title="Malaysia",RTM SPORTS
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -633,7 +633,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="305" tvg-id="BXT.US" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport%20xtra.png" group-title="Malaysia",BEIN XTRA
-https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia",Astro Supersport
