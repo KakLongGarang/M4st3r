@@ -3,12 +3,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -38,7 +38,7 @@ https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -228,7 +228,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="MY",BERITA RTM 
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
@@ -633,7 +633,7 @@ http://210.210.155.66/h/h22/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rtm%20sports.png" group-title="SPORT",RTM SPORTS
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -844,12 +844,12 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -862,7 +862,7 @@ https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",TV OKEY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -956,7 +956,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="NEWS",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
@@ -1158,7 +1158,7 @@ http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORT", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",Setanta Sports 1
@@ -1273,28 +1273,9 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY",TV3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MY",TV9
-https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",TV OKEY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -1400,8 +1381,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="NEWS", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="NEWS",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
@@ -1629,8 +1608,6 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORT", Premier Football 3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORT", RTM Sports
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT",Setanta Sports 1
 http://ott-cdn.ucom.am/s81/04.m3u8
@@ -1690,18 +1667,7 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-22-081330.jpg",Astro Supersport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
  
-#EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
-#KODIPROP:inputstream.adaptive.license_type=hbbtv
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
- 
-#EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
-https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
- 
-#EXTINF:-1 xmltv-id="TV2" tvg-id="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist.m3u8
-
-#EXTINF:-1 xmltv-id="TV2" tvg-id="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
+#
 
 #EXTINF:-1 xmltv-id="TV3" tvg-id="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", NTV7
 https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Ntv7%20github.m3u8
@@ -1709,24 +1675,7 @@ https://raw.githubusercontent.com/kasutbaru/kasutbaru/main/Ntv7%20github.m3u8
 #EXTINF:-1 xmltv-id="TV3" tvg-id="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
 https://raw.githubusercontent.com/raizoML/new/main/freeview/tv3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 xmltv-id="TV Okey" tvg-id="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
-
-#EXTINF:-1 xmltv-id="TV Okey" tvg-id="TV Okey" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg", TV OKEY 
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
-#EXTINF:-1 xmltv-id="rtmbes" tvg-id="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/dash.m3u8
-
-#EXTINF:-1 xmltv-id="rtmbes" tvg-id="rtmbes" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", RTMBES
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
-#EXTINF:-1 xmltv-id="rtmsports" tvg-id="rtmsports" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player Logo - RTM Sports Mac 20 - WhiteBG.jpg", RTMSPORTS
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
-
-#EXTINF:-1 xmltv-id="rtmsports" tvg-id="rtmsports" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player Logo - RTM Sports Mac 20 - WhiteBG.jpg", RTMSPORTS
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
+#
 #EXTINF:-1 xmltv-id="parlimenrakyat" tvg-id="parlimenrakyat" group-title="MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvparlimendewanrakyat.jpg", PARLIMENRAKYAT
 https://parlimenrakyathbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/dash.m3u8
 
@@ -1754,13 +1703,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 #EXTINF:-1 xmltv-id="tvs" tvg-id="TVSarawak" tvg-logo="https://tvsarawak.com/wp-content/uploads/2018/12/tvslogo222new.png" tvg-chno="0" channel-id="0" group-title="MY",TVSarawak
 https://raw.githubusercontent.com/raizoML/new/main/freeview/8.m3u8
  
-#EXTINF:-1 xmltv-id="tv1" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="1" channel-id="1" group-title="MY",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
-#https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
- #EXTINF:-1 xmltv-id="tv2" tvg-id="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="2" channel-id="2" group-title="MY",TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
-#https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
  #EXTINF:-1 xmltv-id="tv3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MY",TV3
 https://raw.githubusercontent.com/raizoML/new/main/freeview/1.m3u8|Referer=https://www.dailymotion.com
@@ -1780,10 +1722,7 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/4.m3u8
 #EXTINF:-1 xmltv-id="dramasangat" tvg-id="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" tvg-chno="7" channel-id="7" group-title="MY",Drama Sangat
 https://raw.githubusercontent.com/raizoML/new/main/freeview/5.m3u8
  
-#EXTINF:-1 xmltv-id="okey" tvg-id="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" tvg-chno="9" channel-id="9" group-title="MY",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
-#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
- 
+
 #EXTINF:-1 xmltv-id="naura" tvg-id="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MY",Naura
 https://raw.githubusercontent.com/raizoML/new/main/freeview/7.m3u8
  
@@ -1868,16 +1807,12 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/9.m3u8
 #EXTINF:-1 tvg-id"bflix" tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/s320/bflix_logo.png" group-title="MOVIE",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net:443/hls/5045.BFlixMovies.in.m3u8
 
-#EXTINF:-1 xmltv-id="beritartm" tvg-id="Astro Awani" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" tvg-chno="59" channel-id="59" group-title="NEWS",Berita RTM
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/dash.m3u8
+
  
 #EXTINF:-1 xmltv-id="awani" tvg-id="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="NEWS",Astro Awani
 https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 xmltv-id="rtms" tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="SPORT",RTM Sports HD
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/dash.m3u8
-#https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CHC动作电影.png" tvg-name="CHC动作电影" group-title="MOVIE",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
