@@ -1,9 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jh6bvFed68egtuPkKx5jOw)/dm/3/x6zvnex/s/live-4.m3u8
+https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qYSZakIA97hDpfMxRJmlYU)/dm/3/x6zvnex/s/live-3.m3u8
 
 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
-https://stream-01.ty4.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ldEOK7MBCgZ-6OsITABU0U)/dm/3/x6zvnex/s/live-3.m3u8
