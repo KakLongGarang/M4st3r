@@ -701,10 +701,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="SPORT",WWE
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-name="305" tvg-id="MTV.us" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/mtv.png" group-title="MY",MTV
@@ -841,15 +837,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -859,13 +847,7 @@ http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MY",TV9
 https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",TV OKEY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY",HELLO
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1277,8 +1259,6 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY",HELLO
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
