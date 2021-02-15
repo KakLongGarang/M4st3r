@@ -1449,7 +1449,7 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/8.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/1.m3u8|Referer=https://www.dailymotion.com
  
 #EXTINF:-1 xmltv-id="tv3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="MY",TV3 (backup)
-http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
+
  
 #EXTINF:-1 xmltv-id="ntv7" tvg-id="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MY",NTV7
 https://raw.githubusercontent.com/raizoML/new/main/freeview/2.m3u8
@@ -1471,7 +1471,7 @@ https://raw.githubusercontent.com/raizoML/new/main/freeview/7.m3u8
 https://raw.githubusercontent.com/raizoML/new/main/freeview/6.m3u8
  
 #EXTINF:-1 xmltv-id="prima" tvg-id="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="MY",Astro Prima
-http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
+
  
 #EXTINF:-1 tvg-id"andflix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIE",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
