@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="MOVIES",Movies Now HD
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48160&output=m3u8
