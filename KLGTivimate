@@ -865,3 +865,8 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-id="abcaustralia" tvg-name="ABC AUSTRALIA" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="NEWS",ABC AUSTRALIA
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48160&output=m3u8
+
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
